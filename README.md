@@ -1,6 +1,12 @@
 # PipesDeepDive
 
+This project's purpose is to provide a comprehensive exploration of Angular pipes, custom pipes, demonstrating their usage and functionality within an Angular application.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0.
+
+## Screenshots
+
+![1](https://github.com/user-attachments/assets/68fc72e3-900d-4305-b9da-bef4021b32ad)
 
 ## Development server
 
